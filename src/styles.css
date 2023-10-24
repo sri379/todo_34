@@ -1,0 +1,49 @@
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/* Input.css */
+
+  
+  .input-field {
+    width: 1400px;
+    height: 30px;
+    
+  }
+  
+  .add-button {
+    background-color: skyblue;
+    width: 1400px;
+    height: 30px;
+    margin: 10px;
+  }
+/* Display.css */
+
+  
+  .delete-button {
+    background-color: red;
+    width: 80px;
+    height: 30px;
+    margin-left: 10px;
+  }
+/* Filter.css */
+
+  
+  .filter-button {
+    background-color: skyblue;
+    width: 140px;
+    height: 30px;
+  }
+
+  .remove-button {
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
